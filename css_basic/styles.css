@@ -21,3 +21,25 @@ aside {
   flex: 1;
   overflow-y: auto;
 }
+/* Custom styles */
+header {
+  font-size: 1.5rem;
+  background: linear-gradient(45deg, #6a5acd, #00bcd4);
+}
+
+footer {
+  background-color: #222;
+}
+
+.logo {
+  font-size: 2rem;
+  color: gold;
+  padding: 5px;
+}
+
+article {
+  background: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
